@@ -1,4 +1,4 @@
-# 📚 UFuture test task
+# 📚 U-Future test task
 
 A simple library management system built with **Spring Boot** that allows users to manage a collection of books. This project provides basic CRUD operations for managing books and includes RESTful API documentation with **Swagger**.
 
